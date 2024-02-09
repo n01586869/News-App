@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CBC.ca",
+        "title": "When should diabetic kids begin taking on their own care? - CBC.ca",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS93aW5kc29yL2RpYWJldGVzLWtpZHMtc2VsZi1jYXJlLTEuNzEwNzcwMdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MTA3NzAx?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T19:00:49Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CTV News",
+        "title": "Researchers find cell that remembers allergies, opening up drug possibilities - CTV News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmN0dm5ld3MuY2EvaGVhbHRoL3Jlc2VhcmNoZXJzLXNheS10aGV5LWhhdmUtZm91bmQtdGhlLXNtb2tpbmctZ3VuLWZvci10YWNrbGluZy1saWZlLWxvbmctYWxsZXJnaWVzLTEuNjc1OTg2NdIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T19:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Better Dwelling",
+        "title": "Toronto Real Estate Recovery Will Takes Years, Not Months: BMO - Better Dwelling",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYmV0dGVyZHdlbGxpbmcuY29tL3Rvcm9udG8tcmVhbC1lc3RhdGUtcmVjb3Zlcnktd2lsbC10YWtlcy15ZWFycy1ub3QtbW9udGhzLWJtby_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T18:49:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CTV News",
+        "title": "SPACE NEWS | One-on-one with Artemis II astronaut Jeremy Hansen - CTV News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CCAiC2ZpUDd5R1RPVEJFmAEB?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T18:32:17Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Global News",
+        "title": "Puberty blockers should not be used on children, Poilievre says - Global News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjc4NzAyL3BpZXJyZS1wb2lsaWV2cmUtcHViZXJ0eS1ibG9ja2Vycy1zdGFuY2Uv0gFRaHR0cHM6Ly9nbG9iYWxuZXdzLmNhL25ld3MvMTAyNzg3MDIvcGllcnJlLXBvaWxpZXZyZS1wdWJlcnR5LWJsb2NrZXJzLXN0YW5jZS9hbXAv?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T18:17:23Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Sportsnet.ca",
+        "title": "Senators captain Brady Tkachuk laments another lost season in Ottawa - Sportsnet.ca",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS9uaGwvYXJ0aWNsZS9zZW5hdG9ycy1jYXB0YWluLWJyYWR5LXRrYWNodWstbGFtZW50cy1hbm90aGVyLWxvc3Qtc2Vhc29uLWluLW90dGF3YS_SAWlodHRwczovL3d3dy5zcG9ydHNuZXQuY2EvbmhsL3NlbmF0b3JzLWNhcHRhaW4tYnJhZHktdGthY2h1ay1sYW1lbnRzLWFub3RoZXItbG9zdC1zZWFzb24taW4tb3R0YXdhL3NuLWFtcC8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T18:02:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CBC News",
+        "title": "Cameron Ortis, ex-RCMP official guilty of leaking secrets, sentenced to 14 years in prison - CBC News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2NhbWVyb24tb3J0aXMtc2VudGVuY2luZy0xLjcxMDUxMjfSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzEwNTEyNw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T17:53:51Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "EarthSky",
+        "title": "The April 8 eclipse is part of saros 139. What's that mean? - EarthSky",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vZWFydGhza3kub3JnL2h1bWFuLXdvcmxkLzIwMjQtYXByaWwtOC1lY2xpcHNlLXNhcm9zLTEzOS_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T17:53:12Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CP24",
+        "title": "Police issue warning 2following cluster of ODs in downtown Belleville - CP24",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvYmVsbGV2aWxsZS1wb2xpY2Utd2Fybi1wdWJsaWMtYWZ0ZXItY2x1c3Rlci1vZi1kcnVnLW92ZXJkb3Nlcy1pbi1kb3dudG93bi1jb3JlLTEuNjc1OTczM9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T17:35:02Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Montreal Gazette",
+        "title": "Legault government intends to renew notwithstanding clause on Bill 21 - Montreal Gazette",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbW9udHJlYWxnYXpldHRlLmNvbS9uZXdzL2xvY2FsLW5ld3MvbGVnYXVsdC1nb3Zlcm5tZW50LWludGVuZHMtdG8tcmVuZXctbm90d2l0aHN0YW5kaW5nLWNsYXVzZS1vbi1iaWxsLTIx0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T17:26:15Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Globe and Mail",
+        "title": "Calgary police say business cards handed out with free cocaine samples - The Globe and Mail",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vY2FuYWRhL2FsYmVydGEvYXJ0aWNsZS1jYWxnYXJ5LXBvbGljZS1zYXktYnVzaW5lc3MtY2FyZHMtaGFuZGVkLW91dC13aXRoLWZyZWUtY29jYWluZS1zYW1wbGVzL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T17:20:33Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "PCMag",
+        "title": "More Apple Vision Pro Teardowns Reveal Fragile EyeSight Screen, New Secrets - PCMag",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnBjbWFnLmNvbS9uZXdzL21vcmUtYXBwbGUtdmlzaW9uLXByby10ZWFyZG93bnMtcmV2ZWFsLWZyYWdpbGUtZXllc2lnaHQtc2NyZWVuLW5ldy1zZWNyZXRz0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T17:19:08Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Global News",
+        "title": "Taylor Swift threatens to sue student for tracking her private jet online - Global News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjc2NjIwL3RheWxvci1zd2lmdC1qYWNrLXN3ZWVuZXktcHJpdmF0ZS1qZXQtdHJhY2tpbmctY2Vhc2UtYW5kLWRlc2lzdC_SAWhodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy8xMDI3NjYyMC90YXlsb3Itc3dpZnQtamFjay1zd2VlbmV5LXByaXZhdGUtamV0LXRyYWNraW5nLWNlYXNlLWFuZC1kZXNpc3QvYW1wLw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T17:03:13Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "3downnation.com",
+        "title": "Bombers' RB Brady Oliveira turned down $770,000 and $550,000 financial packages to stay in Winnipeg - 3downnation.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovLzNkb3dubmF0aW9uLmNvbS8yMDI0LzAyLzA3L2JvbWJlcnMtcmItYnJhZHktb2xpdmVpcmEtdHVybmVkLWRvd24tNzcwMDAwLWFuZC01NTAwMDAtZmluYW5jaWFsLXBhY2thZ2VzLXRvLXN0YXktaW4td2lubmlwZWcv0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T16:37:36Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Yahoo News Canada",
+        "title": "King Charles' cancer diagnosis sees Canadians throw shade at their crumbling healthcare system: 'Good thing he isn't seeking treatment in Ontario' - Yahoo News Canada",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMitgFodHRwczovL2NhLm5ld3MueWFob28uY29tL2tpbmctY2hhcmxlcy1jYW5jZXItZGlhZ25vc2lzLXNlZXMtY2FuYWRpYW5zLXRocm93LXNoYWRlLWF0LXRoZWlyLWNydW1ibGluZy1oZWFsdGhjYXJlLXN5c3RlbS1nb29kLXRoaW5nLWhlLWlzbnQtc2Vla2luZy10cmVhdG1lbnQtaW4tb250YXJpby0xNjI4MDcwNjUuaHRtbNIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T16:28:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Israel-Gaza war: Hamas responds to ceasefire offer with 135-day truce plan - BBC.com",
+        "description": "The group is seeking a hostage-prisoner swap and full Israeli withdrawal from Gaza.",
+        "url": "https://www.bbc.com/news/world-middle-east-68225663",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15D99/production/_132579498_be33ef1d74783dc187091fc91a4387d9bebb1d93.jpg",
+        "publishedAt": "2024-02-07T16:24:11Z",
+        "content": "By Ido Vock &amp; Lyse DoucetBBC News\r\nHamas is demanding the full withdrawal of Israeli troops from Gaza in a counteroffer to a US and Israel-backed ceasefire proposal\r\nHamas has laid out a series o… [+4060 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "country94.ca",
+        "title": "Rare 3D fossilized tree found near Norton - country94.ca",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNvdW50cnk5NC5jYS8yMDI0LzAyLzA3L3JhcmUtM2QtZm9zc2lsaXplZC10cmVlLWZvdW5kLW5lYXItbm9ydG9uL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T16:23:27Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "University of Guelph News",
+        "title": "Growing Vegetables, by Robert Pavlis - University of Guelph News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vZ3VlbHBoLmNhL2V2ZW50L2dyb3dpbmctdmVnZXRhYmxlcy1ieS1yb2JlcnQtcGF2bGlzLzIwMjQtMDMtMTMv0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T16:17:44Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CTV News",
+        "title": "Marc Miller frustrated that Canadian families are stuck in Gaza - CTV News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3MvY2FuYWRpYW5zLWZhbWlsaWVzLWJsb2NrZWQtZnJvbS1sZWF2aW5nLWdhemEtaW1taWdyYXRpb24tbWluaXN0ZXItcGlzc2VkLW9mZi0xLjY3NTk1OTTSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-02-07T16:14:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      }
+    ]
+  }
