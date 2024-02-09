@@ -1,5 +1,5 @@
 import { useState, useEffect} from 'react'
-import { SafeAreaView, FlatList } from 'react-native'
+import { View, FlatList } from 'react-native'
 import Story from './Story'
 
 
@@ -21,7 +21,7 @@ export default Stories = (props) => {
 
     const [stories, setStories] = useState([])
 
-    // fetch in own function to do different fetch based on "headline" prop
+    // fetch based on "headline" prop
     const fetchData = (type) => {
         fetch(type)
         .then((res) => res.json())
@@ -46,12 +46,12 @@ export default Stories = (props) => {
     }, [props.headlines])
 
     return(
-    <SafeAreaView style={{paddingBottom: 60}}>
+    <View style={{paddingBottom: 60}}>
         <FlatList 
             keyExtractor={(item) => item.title}
             data={stories}
             renderItem={renderStory}
         />
-    </SafeAreaView>
+    </View>
     )
 }
