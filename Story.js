@@ -9,13 +9,14 @@ export default Story = (props) => {
     return(
         // if no image, doesn't render the story
         props.img &&
+        // on press, open expo web browser to the url provided by api
         <Pressable style={styles.container} onPress={()=>{WebBrowser.openBrowserAsync(props.url)}}>
             <Image
             style={styles.img}
             source={{
                 uri: props.img
-            }}
-            ></Image>
+            }}/>
+
             <View style={styles.textView}>
                 <Text style={styles.title}>{props.title}</Text>
                 {styles.description && <Text style={styles.description} numberOfLines={5}>{props.description}</Text>}
