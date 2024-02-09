@@ -13,15 +13,15 @@ export default TopCanadianStories = () => {
 
     const [stories, setStories] = useState([])
 
-    // useEffect(()=>{
-    //     fetch(API)
-    //     .then((res) => res.json())
-    //     .then((data) => {
-    //         setStories([{title: "this is a title", description: "this is a description", source: "The Source"}])
-    //     })
-    //     .catch((err)=>console.log(err))
+    useEffect(()=>{
+        fetch(API)
+        .then((res) => res.json())
+        .then((data) => {
+            setStories([{title: "this is a title", description: "this is a description", source: "The Source"}])
+        })
+        .catch((err)=>console.log(err))
 
-    // }, [])
+    }, [])
 
     useEffect(()=>{
         setStories(json.articles)
